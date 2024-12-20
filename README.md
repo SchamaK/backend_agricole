@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -82,3 +83,6 @@ typeorm-model-generator -h localhost -d Users -u root -x root -e mysql -t nom_de
 
 typeorm-model-generator -h localhost -d Users -u root -x root -e mysql -t table1,table2 -o ./src/common
 pour plusieurs liste de table
+=======
+# backend_agricole
+>>>>>>> 1f8b682bfd15f17486907e0f6bc28a6ce2174d95
