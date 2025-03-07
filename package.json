@@ -23,7 +23,7 @@
     "post-generate": "node scripts/renameFiles.js"
   },
   "dependencies": {
-    "@nestjs/common": "^8.0.0",
+    "@nestjs/common": "^11.0.11",
     "@nestjs/config": "^3.3.0",
     "@nestjs/core": "^8.0.0",
     "@nestjs/mapped-types": "^2.0.6",
